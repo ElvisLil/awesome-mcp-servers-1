@@ -210,6 +210,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ## 🔍 <a name="search-web"></a>Search & Web
 
+- [Trustbase Lab](https://github.com/Trustbaselab/trustbaselab-mcp) - Verifiable industry data (rCB, carbon, telecom, health, compute, trade) with snapshots and offline-recomputable hashes.
 > Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
 - <img src="https://cdn.simpleicons.org/puppeteer/00D8A2" height="14"/> [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation for web scraping and interaction
